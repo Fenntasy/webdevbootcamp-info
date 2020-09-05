@@ -8,7 +8,7 @@ When learning to code it's perfectly normal to need help sometimes. We all do.
 
 Coding problems can be hard to find or to fix. Asking someone to come, jump right in your code without explanation is never a good idea. In order to get the best help you can, it's important to explain **what** happens, and **when**.
 
-As you will learn during the training, be able to explain your problem is often make half the work. Here are some questions you should answer before asking:
+As you will learn during the training, being able to explain your problem is often half the work. Here are some questions you should answer before asking:
 - Do I have an error ? if yes, what is it telling me ?
 - Which part of my code is buggy? Try to isolate it.
 - Which answers can I found in my favorite search engine?
